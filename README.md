@@ -1,5 +1,7 @@
 ### reddit-clone-back-end
-> This is one of the biggest projects i've worked on so far.
+> This is a Tutorial Project. I'm using this as a **Referance** for my own personal projects.
+> Whether it's adding security to my personal project, scaling my personal project or adding token based auth to my projects etc. 
+> This allows me to come and study this code, and apply it to my own personal projects in my own unique way.
 ---
 
 #### Overview:
